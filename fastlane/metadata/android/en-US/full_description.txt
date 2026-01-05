@@ -1,0 +1,59 @@
+Blood Moon - Private Period Tracker
+
+A completely offline period tracker with strong encryption. Your data never leaves your device.
+
+FEATURES:
+
+Privacy First
+• No internet permission - completely offline
+• Full database encryption with SQLCipher
+• No analytics, no tracking, no data collection
+• Optional PIN and biometric lock
+• Your data is yours alone
+
+Period Tracking
+• Log period start/end dates
+• Track flow intensity
+• Record symptoms and moods
+• Add personal notes
+• Custom fields support
+
+Smart Predictions
+• Rolling average cycle length
+• Adaptive luteal phase tracking
+• Fertile window calculation
+• Confidence intervals
+• Handles irregular cycles
+
+Beautiful Interface
+• Dark gothic aesthetic
+• Pixel-art moon mascot "Moony"
+• Multiple theme variants
+• Moon phase tracking
+• Smooth animations
+
+Data Control
+• Encrypted backup and restore
+• Export your data anytime
+• No cloud sync (by design)
+• Delete anytime
+
+MADE FOR PRIVACY
+
+Unlike other period trackers, Blood Moon has NO internet permission. It's impossible for the app to send your data anywhere. All data is encrypted on your device using industry-standard SQLCipher.
+
+OPEN SOURCE
+
+Blood Moon is MIT licensed open-source software. You can verify the code yourself on GitHub. Community contributions welcome!
+
+PERMISSIONS
+
+• Storage: For encrypted backups only
+• Biometric: Optional app lock
+• Notifications: Optional period reminders
+
+NO permissions for internet, location, contacts, or anything else.
+
+YOUR DATA, YOUR CONTROL
+
+No sign-up. No account. No cloud. Just a period tracker that respects your privacy.

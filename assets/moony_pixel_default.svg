@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Default Moony - Cute pixel moon ghost -->
+
+  <!-- Main body (circular moon) -->
+  <circle cx="32" cy="32" r="20" fill="#FFD3FF" stroke="#FF5CA8" stroke-width="2"/>
+
+  <!-- Left eye -->
+  <circle cx="25" cy="28" r="3" fill="#0A0A0F"/>
+
+  <!-- Right eye -->
+  <circle cx="39" cy="28" r="3" fill="#0A0A0F"/>
+
+  <!-- Smile -->
+  <path d="M 23 38 Q 32 43, 41 38" fill="none" stroke="#0A0A0F" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Subtle glow effect -->
+  <circle cx="32" cy="32" r="22" fill="none" stroke="#FF5CA8" stroke-width="1" opacity="0.3"/>
+</svg>

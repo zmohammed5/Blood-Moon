@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Gothic Palette -->
+    <color name="deep_black">#0A0A0F</color>
+    <color name="hell_crimson_shadow">#210012</color>
+    <color name="dark_magenta">#38001E</color>
+    <color name="vampy_purple">#5F0A48</color>
+    <color name="electric_pink">#FF5CA8</color>
+    <color name="pale_lilac">#FFD3FF</color>
+
+    <!-- Metal Mode Variant (more crimson) -->
+    <color name="metal_crimson">#8B0000</color>
+    <color name="metal_hell_pink">#FF1493</color>
+
+    <!-- Functional -->
+    <color name="period_red">#FF5CA8</color>
+    <color name="fertile_blue">#9D4EDD</color>
+</resources>

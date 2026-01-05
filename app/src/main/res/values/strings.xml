@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blood Moon</string>
+
+    <!-- Lock Screen -->
+    <string name="lock_enter_sigil">Enter your sacred sigil</string>
+    <string name="lock_cast_code">Cast your protection code</string>
+    <string name="lock_wrong_code">The sigil rejects you…</string>
+
+    <!-- Dashboard -->
+    <string name="cycle_day">Cycle Day %1$d</string>
+    <string name="countdown_period">%1$d days until expected period</string>
+    <string name="period_today">Period expected today</string>
+    <string name="period_ongoing">Day %1$d of period</string>
+
+    <!-- Calendar -->
+    <string name="predicted_period">Predicted Period</string>
+    <string name="fertile_window">Fertile Window</string>
+    <string name="logged_period">Logged Period</string>
+
+    <!-- Logging -->
+    <string name="log_period">Log Period</string>
+    <string name="flow_intensity">Flow Intensity</string>
+    <string name="flow_light">Light</string>
+    <string name="flow_medium">Medium</string>
+    <string name="flow_heavy">Heavy</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="mood">Mood</string>
+    <string name="notes">Notes</string>
+
+    <!-- Partner Notes -->
+    <string name="partner_notes">Partner Notes</string>
+    <string name="add_note">Add Note</string>
+    <string name="note_hint">Enter a supportive message…</string>
+
+    <!-- Music -->
+    <string name="music_player">Music</string>
+    <string name="select_folder">Select Music Folder</string>
+    <string name="no_music">No music folder selected</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="enable_lock">Enable PIN Lock</string>
+    <string name="enable_biometric">Enable Biometric</string>
+    <string name="metal_mode">Metal Mode</string>
+    <string name="metal_mode_unlocked">Metal Mode unlocked — courtesy of someone who loves you loudly.</string>
+    <string name="backup">Backup Data</string>
+    <string name="restore">Restore Data</string>
+
+    <!-- Moon Phases -->
+    <string name="new_moon">New Moon</string>
+    <string name="waxing_crescent">Waxing Crescent</string>
+    <string name="first_quarter">First Quarter</string>
+    <string name="waxing_gibbous">Waxing Gibbous</string>
+    <string name="full_moon">Full Moon</string>
+    <string name="waning_gibbous">Waning Gibbous</string>
+    <string name="last_quarter">Last Quarter</string>
+    <string name="waning_crescent">Waning Crescent</string>
+</resources>
